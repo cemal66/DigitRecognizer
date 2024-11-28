@@ -15,6 +15,9 @@ Bu proje, Kaggle'ın **Digit Recognizer** veri seti kullanılarak el yazısı ra
 ## Sonuçlar
 Model, eğitim setinde yaklaşık %97 doğruluk ve doğrulama setinde yaklaşık %97 doğruluk elde etti. Kaggle test seti sonuçları `submission.csv` dosyasında bulunabilir.
 
+###
+EtiketlerinDagilimi.png
+
 ### Eğitim ve Doğrulama Doğruluk Grafiği:
 ![Accuracy Graph](accuracy_graph.png)
 
