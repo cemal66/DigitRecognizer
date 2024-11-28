@@ -18,11 +18,8 @@ Model, eğitim setinde yaklaşık %97 doğruluk ve doğrulama setinde yaklaşık
 ### Etiketlerin Dağılımı:
 ![Etiketlerin Dağılımı](EtiketlerinDagilimi.png)
 
-### Eğitim ve Doğrulama Doğruluk Grafiği:
+### Eğitim ve Doğrulama Doğruluk, Kayıp Grafiği:
 ![Accuracy Graph](accuracy_graph.png)
-
-### Eğitim ve Doğrulama Kayıp Grafiği:
-![Loss Graph](loss_graph.png)
 
 ## Kullanım
 1. `main.py` dosyasını çalıştırarak modeli eğitebilir ve `submission.csv` dosyasını oluşturabilirsiniz.
